@@ -1,8 +1,4 @@
-<script>
-
-</script>
-
-
+<script></script>
 
 <template>
   <div class="backgroundImg"></div>
@@ -10,8 +6,6 @@
   <h1>La prima app Vite firmata Pek!</h1>
   <p>Figo!</p>
 </template>
-
-
 
 <style scoped>
 h1 {
