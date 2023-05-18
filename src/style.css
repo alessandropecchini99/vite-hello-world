@@ -5,7 +5,8 @@ body {
   place-items: center;
 }
 
-h1, p {
+h1,
+p {
   background-color: white;
   padding: 5px 10px;
   width: fit-content;
